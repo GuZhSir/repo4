@@ -8,8 +8,9 @@ public class FirstClass {
         System.out.println("hello  ---");
         System.out.println("hello  ---");
         System.out.println("hello  ---");
+        test();
     }
-    public void test(){
+    public static void test(){
         int i=1+1;
         System.out.println(i);
     }
